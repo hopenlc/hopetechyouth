@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT License
+// Reference: https://ethereum.stackexchange.com/questions/50310/how-to-pass-the-value-in-bytes32-array
 pragma solidity >= 0.7.0 < 0.9.0;
 
 contract getBytes{
